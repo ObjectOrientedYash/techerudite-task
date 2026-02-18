@@ -22,6 +22,8 @@ Full-stack Product Inventory built with React, Node.js, GraphQL, PostgreSQL, Seq
 cd backend && npm install && npm run seed && npm start
 ```
 
+### Frontend
+
 ```bash
 cd frontend && npm install && npm run dev
 
